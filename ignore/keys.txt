@@ -1,4 +1,0 @@
-A6AYsxCYuIePovs55rkXtUgVr #consumer_key
-b58HVnjQJijOltpoh9l9ljthl5MEZU11r1pgWoP1fyi5lewZzL #consumer_secret
-2288715758-XvMi33IkfJzUrxWCS1C7xb1I7gsL4BIJBvVERYr #access_token
-xmlajY6GD0KVLzqxWTnnUz3To8PVG9sbFIUyL7u4ftlHO #access_token_secret
